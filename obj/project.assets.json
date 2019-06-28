@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge\\Documents\\Projetos\\Fantasy-Service\\Fantasy-Service.csproj",
+      "projectUniqueName": "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\Fantasy-Service.csproj",
       "projectName": "Fantasy-Service",
-      "projectPath": "C:\\Users\\jorge\\Documents\\Projetos\\Fantasy-Service\\Fantasy-Service.csproj",
+      "projectPath": "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\Fantasy-Service.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge\\Documents\\Projetos\\Fantasy-Service\\obj\\",
+      "outputPath": "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
