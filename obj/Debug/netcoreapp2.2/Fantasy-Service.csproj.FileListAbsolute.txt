@@ -1,0 +1,14 @@
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\bin\Debug\netcoreapp2.2\Fantasy-Service.deps.json
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\bin\Debug\netcoreapp2.2\Fantasy-Service.runtimeconfig.json
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\bin\Debug\netcoreapp2.2\Fantasy-Service.runtimeconfig.dev.json
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\bin\Debug\netcoreapp2.2\Fantasy-Service.dll
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\bin\Debug\netcoreapp2.2\Fantasy-Service.pdb
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.csprojAssemblyReference.cache
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.RazorAssemblyInfo.cache
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.RazorAssemblyInfo.cs
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.AssemblyInfo.cs
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.RazorTargetAssemblyInfo.cache
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.dll
+C:\Users\jorge\Documents\Projetos\Fantasy-Service\obj\Debug\netcoreapp2.2\Fantasy-Service.pdb
