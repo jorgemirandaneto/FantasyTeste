@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\Fantasy-Service.csproj": {}
+    "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\fantasyservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\Fantasy-Service.csproj": {
+    "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\fantasyservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\Fantasy-Service.csproj",
-        "projectName": "Fantasy-Service",
-        "projectPath": "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\Fantasy-Service.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\fantasyservice.csproj",
+        "projectName": "fantasyservice",
+        "projectPath": "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\fantasyservice.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jorge\\Documents\\Projetos\\FantasyTeste\\obj\\",
         "projectStyle": "PackageReference",
@@ -55,14 +55,6 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
-              "target": "Package",
-              "version": "[1.1.1, )"
             }
           },
           "imports": [
